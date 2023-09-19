@@ -11,3 +11,5 @@ Para descargar la imagen de docker, ejecutar el siguiente comando:
 ```bash
 docker pull jneirar/spark-wordcount
 ```
+
+Link de la imagen en Docker Hub: [https://hub.docker.com/r/jneirar/spark-wordcount](https://hub.docker.com/r/jneirar/spark-wordcount)
